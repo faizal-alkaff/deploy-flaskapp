@@ -2,4 +2,4 @@
 
 HEROKU - https://fl4sk-app.herokuapp.com/
 
-AWS Ubuntu - http://3.20.89.152/
+AWS Ubuntu - http://3.20.179.194/
